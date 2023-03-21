@@ -27,5 +27,5 @@ top of it.
 - AWS S3, AWS Glue, AWS Athena, AWS Cloud9, Apache Flink, Amazon Kinesis,Amazon SNS, AWS Lambda, Amazon CloudWatch, Grafana, Apache Zepplin
 
 # Architecture
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/vekr1518/Building-Realtime-Streaming-Kinesis-Flink/blob/main/Architecture.png)
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
