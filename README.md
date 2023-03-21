@@ -59,3 +59,8 @@ top of it.
 10. Create Grafana Dashboards for visualizing the data
 11. Create Kinesis Firehose and read the data from datastream and store it in s3 (**NOTE:** This step is required for data retention. KDA is the main player for processing the data. if KDA fails due to unforeseen reasons, data will be lost as the Kinesis Data Stream will keep the data for 1 day only. To avoid this SPOF, We are creating a Kinesis Firehose to process and save the data back to S3)
 
+## Grafana Dashboard:
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/vekr1518/Building-Realtime-Streaming-Kinesis-Flink/blob/main/Grafana_Dashboard.png)
+
+
+
