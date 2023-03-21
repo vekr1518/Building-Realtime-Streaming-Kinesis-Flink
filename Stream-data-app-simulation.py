@@ -61,4 +61,4 @@ def stream_data_simulator(input_s3_bucket, input_s3_key):
 
 # Run stream:
 for i in range(0, 3):
-  stream_data_simulator(input_s3_bucket="streaming-kinesis-flink", input_s3_key="raw-data/US_Accidents_Dec20_updated_sample.csv")
+  stream_data_simulator(input_s3_bucket="streaming-kinesis-flink", input_s3_key="raw-data/US_Accidents_Dec21_updated_sample.csv")
